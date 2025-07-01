@@ -4,6 +4,6 @@
 
 (This is an AI merging framework made to quickly throw ideas with some of my latest functionnalities)
 
-(Despite no readme it is functionnal and you can find it in "Experimental model merging" in the menu)
+(Despite no readme it is functional and you can find it in "Experimental model merging" in the menu)
 
 (as usual it's for comfyui)
